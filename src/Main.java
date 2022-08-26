@@ -25,7 +25,7 @@ public class Main {
         short fifth = 569;
         int sixth = -159;
         int seventh = 27897;
-        short eighth = 67;
+        byte eighth = 67;
         System.out.println("Задача решена. По условиям задачи решение не нужно выводить в консоль.");
 
         // Задача 3
